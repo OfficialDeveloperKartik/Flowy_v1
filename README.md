@@ -2,7 +2,10 @@
 
 > A revolutionary desktop environment concept combining seamless glassmorphism with dynamic Material You design principles.
 
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/66201f12-b961-47cd-87be-42c34fe8b09b" />
+
 ---
+
 
 ## 👁️ Overview
 
