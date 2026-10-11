@@ -16,9 +16,15 @@
 ## ✨ Key Features
 
 * **💧 Real Liquid Glass Taskbar:** A fully dynamic, frosted-glass taskbar with real-time blur and fluid light reflections.
+* 
 * **🎨 Material You Active Desktop Widgets:** Context-aware desktop widgets that automatically adapt color palettes to match your current wallpaper and themes.
+* 
 * **🧘 Transparent Zen Browser Integration:** A clean, fully transparent, and distraction-free custom browsing experience.
+* 
 * **📂 Revamped File Explorer:** A completely restructured file manager featuring modern navigation, clean acrylic panels, and seamless sidebar controls.
+
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/d615eba7-34c1-4592-8c1b-b48841d29eea" />
+
 
 ---
 
