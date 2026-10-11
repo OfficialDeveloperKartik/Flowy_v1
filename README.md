@@ -20,6 +20,8 @@
 https://github.com/user-attachments/assets/07d72eaf-6b87-4dea-944f-2ab4ba520f1e
   
 * **🎨 Material You Active Desktop Widgets:** Context-aware desktop widgets that automatically adapt color palettes to match your current wallpaper and themes.
+
+<img width="1439" height="899" alt="image" src="https://github.com/user-attachments/assets/66201f12-b961-47cd-87be-42c34fe8b09b" />
   
 * **🧘 Transparent Zen Browser Integration:** A clean, fully transparent, and distraction-free custom browsing experience.
 
