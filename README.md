@@ -17,7 +17,7 @@
 
 * **💧 Real Liquid Glass Taskbar:** A fully dynamic, frosted-glass taskbar with real-time blur and fluid light reflections.
 
-https://github.com/user-attachments/assets/c23b761b-5479-4a30-a9c3-98002d1180e5
+https://github.com/user-attachments/assets/07d72eaf-6b87-4dea-944f-2ab4ba520f1e
   
 * **🎨 Material You Active Desktop Widgets:** Context-aware desktop widgets that automatically adapt color palettes to match your current wallpaper and themes.
   
